@@ -1,10 +1,6 @@
 ## 如何用 Docker Compose 配置 Django 应用开发环境
 
 > 目标：搭建基于 Docker 的 Django 应用开发环境。
-> 
-> 本项目代码维护在 **[DaoCloud/python-django-sample](https://github.com/DaoCloud/python-django-sample)** 项目中。
->
-> 您可以在 GitHub 找到本项目并获取本文中所提到的所有代码文件。
 
 ### 前言
 
